@@ -1,0 +1,12 @@
+/* quì va il mio codice CSS */
+.bg-red {
+		background-color:red;
+}
+.bg-blue {
+		background-color:blue
+}
+
+figure > img {
+	width: 400px;
+	height: 300px;
+}
